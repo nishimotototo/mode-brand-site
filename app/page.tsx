@@ -48,7 +48,7 @@ export default function Home() {
             {/* IMAGE */}
             <div className="relative w-full h-[300px] sm:h-[420px]">
               <Image
-                src="/Unitia-threedisplay-event.jpg"
+                src="/Unitia-threedisplay-event.JPG"
                 alt="unitia visual"
                 fill
                 className="object-cover"
